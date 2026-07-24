@@ -567,8 +567,10 @@
       "gallery-50.webp"
     ],
     "gallerySource": "industries/drain/gallery",
-    "verifyFiles": [],
-    "verifySource": "",
+    "verifyFiles": [
+      "naver7d66bc83e7577a559b14e6b62f6476df.html"
+    ],
+    "verifySource": "brands/drainon/verify",
     "fairImages": [],
     "fairImagesSource": "",
     "heroImageSource": "",
